@@ -32,5 +32,3 @@ This API allows you to manage users, parking slots, bookings, payments, and avai
 
 ---
 
-## 📂 Project Structure
-
